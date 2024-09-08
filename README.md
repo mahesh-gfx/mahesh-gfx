@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, node, vue, javascript**
 
-- 📫 How to reach me **reach.mahesh.adh@gmail.com**
+- 📫 How to reach me **maheshadhikaritma@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahesh-gfx/](https://www.linkedin.com/in/mahesh-gfx/)
 
