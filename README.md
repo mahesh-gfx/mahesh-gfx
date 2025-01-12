@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Adhikari</h1>
-<h3 align="center">A passionate fullstack javascript developer based in Glasgow, Scotland</h3>
+<h3 align="center">A passionate fullstack developer based in Glasgow, Scotland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-gfx&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-gfx" /> </p>
 
