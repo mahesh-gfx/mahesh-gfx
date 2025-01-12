@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-gfx&show_icons=true&locale=en" alt="mahesh-gfx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-gfx&" alt="mahesh-gfx" /></p>
+[//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-gfx&" alt="mahesh-gfx" /></p>)
