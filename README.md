@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **reach@maheshadhikari.in**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahesh-gfx/](https://www.linkedin.com/in/mahesh-gfx/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahesh-adh/](https://www.linkedin.com/in/mahesh-adh/)
+
+- Personal website, [https://www.maheshadhikari.in](https://www.maheshadhikari.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
