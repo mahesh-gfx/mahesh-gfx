@@ -160,8 +160,6 @@
 > *"The Force will be with you, always."* - Obi-Wan Kenobi
 > 
 > *"I find your lack of faith disturbing."* - Darth Vader
-> 
-> *"May the Code be with you!"* - Mahesh Adhikari
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
