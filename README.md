@@ -25,7 +25,6 @@
 I'm a full stack developer passionate about creating efficient, scalable web applications. I enjoy working across the entire development stack, from crafting intuitive user interfaces to building robust backend systems.
 
 - 💬 Ask me about **React, Node.js, Vue.js, JavaScript** - I'm always happy to discuss web development and DevOps
-- 📫 How to reach me: **reach@maheshadhikari.in**
 - 📄 View my professional experience: [LinkedIn](https://www.linkedin.com/in/mahesh-adh/)
 - 🌐 Personal website: [maheshadhikari.in](https://www.maheshadhikari.in)
 
